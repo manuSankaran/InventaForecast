@@ -163,17 +163,6 @@ Key API endpoints:
 - `/api/webhooks/stripe` - Stripe payment webhooks
 - `/api/auth/*` - Authentication endpoints
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-1. Connect your GitHub repository to Vercel
-2. Set environment variables in Vercel dashboard
-3. Deploy automatically on push to main branch
-
-### Manual Deployment
-1. Build the application: `npm run build`
-2. Start production server: `npm start`
-
 ## 📊 Analytics & Monitoring
 
 - **Vercel Analytics**: Performance monitoring
@@ -201,33 +190,5 @@ Key API endpoints:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
 
-- **Documentation**: [docs.forecastai.com](https://docs.forecastai.com)
-- **Community**: [community.forecastai.com](https://community.forecastai.com)
-- **Email**: support@forecastai.com
-- **Discord**: [Join our Discord](https://discord.gg/forecastai)
-
-## 🎯 Roadmap
-
-### Phase 1 (Complete)
-- ✅ Landing page and marketing site
-- ✅ User authentication and dashboard
-- ✅ Basic forecasting interface
-- ✅ Analytics and reporting
-
-### Phase 2 (In Progress)
-- 🔄 Advanced ML models
-- 🔄 Real-time collaboration
-- 🔄 Mobile app development
-- 🔄 Advanced integrations
-
-### Phase 3 (Planned)
-- 📋 White-label solutions
-- 📋 Enterprise features
-- 📋 Advanced security
-- 📋 Global expansion
-
----
-
-**Built with ❤️ by the ForecastAI Team**
+**Built by Manu Sankaran**
